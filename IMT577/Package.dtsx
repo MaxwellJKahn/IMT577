@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="90"
-  DTS:VersionGUID="{D77367D3-591A-4BB5-80A6-9FD7CF0776ED}">
+  DTS:VersionBuild="102"
+  DTS:VersionGUID="{0FFFD236-94B9-4743-99F9-3D09D4A7779E}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -139,7 +139,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACcQGLYPyd6hLIa+ZaHnkgXzWQ5TuawELhzxzeO8ir5VwAAAAAOgAAAAAIAACAAAAAFeoK+SXi5byYGepH2BlFzlFyzpzdj6iwop3iyJaxEQDAAAACwdCiH4VcVy+Ldf3ZozQVFW+An6JZaWBZuz49m+EYHGLAxOBHMMngnE5qvRuD0JNZAAAAAYQ6hZkoJNa6OkavZ4FAE1R9gUpZPYoQOYmidjIAQAf0QESnYcN3BKxEEFKN7Cj/ZKUCRed+Sgn7tDfyG1s0Ghw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADYE0vZwNfIqfVpnTJJahHPOez1lmFIj1v1Ajm5kdHWuwAAAAAOgAAAAAIAACAAAABnsWCEo6ptxCiCQ1rhN1stSOxmHAAPQEEmbpSc1oGN7TAAAACcLF0E8KQURzPhwZeVFSf37VZd+G4ETxGe2RVUTYwr3/tbotal1opQ8xAxUtweHURAAAAAt6EG3ANyOiTVsuSAUQJZL993wJBaJ4YyKvEUeAArDkAy22oy+2xtSLMqYv0d3tsLXMrss8Q2fmDjGnMR0r87WA</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -154,7 +154,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADWWgjf2YhilCGFMx+pokcOjGeLdgd9+MnxJc5PfZjZHQAAAAAOgAAAAAIAACAAAADnoYSFqWiiwEmEX6cdAL2/ojUZ7VADn4vqaiwSEW5zwTAAAAAURkAtnfn9SgC4OyoUNY5GmFz7ewVH0DrGsTn5yrevPHq5xo3ajMuguIuNaRgTcE9AAAAAvYp/uQCWqgfHlwpL7p2GEZRMi71nr4T0DBp47gCBXbdXvXW1v8x46MLUWyNtcMEM3XuqyROsDBY03JskfSvYOw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB5joqSHQ7xMo4FI5iUhkG642TY+N0WM4Jxxho+s0VJ1wAAAAAOgAAAAAIAACAAAABCRvtHMvWQ10oCrAKp8FDFEK/knoZk5z+Le5F+Xe5jIjAAAABPCli0IyElVBBRu/GMDWzx4+86PVxqXXNLmTWNzUEqGIZ/UfFLUo0NgyQFqaBLb6lAAAAAnUB65vwovI6T71tTuHzcJLrqR9hHgSW0VlWzL/V/tb0kQxbzNcHM4OPUKplbc86BwcFwfCcrKFTBhRXbI3aWtg</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -169,7 +169,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACgYhNv1+j6/yHWEAc1n7lCLOzn1HYu3ZM5VKh8WosVHQAAAAAOgAAAAAIAACAAAACBVyL7fYi0HCbdcZ85/0yxUXoWKSpyHg7ByQrK1p9FjjAAAADP4rWzBIaTafWFvoahmHMZ9eR6gK8b49Hcbi5pB0kTbdA1Aq21KP1oBfi25axDqtRAAAAApqNkFHR6WwX+SZQ8JpLcnPv8rSaNUcySO6qI9I8TGMBCuW0wvqIvA8m/An0Qx4/A6rDUMeOiNGIJQH83ZkdeMQ</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAARyiSKBHLGy27AR8pEZ4t6z35tZ1yxmKuVdbAXiaBIwAAAAAOgAAAAAIAACAAAACDP9ytD+/cWnkkaIFSSjP6jG6kNW6a+h+in50sulyAxTAAAACHfdd8Qu12lAooF28onPicUUoBhSsUEf7b2juWJfvnVRmtD6EWMqswlKFipXlpxRZAAAAAEDOl9lAXA5P9TvgL8OBgXWzPImQAfkr1w397aY9e1uZC+xs+S1j9LlzMkThYaVtXm04t0dXRpnHvXzfDn+0ogA</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -1016,7 +1016,7 @@
               <DTS:ObjectData>
                 <SQLTask:SqlTaskData
                   SQLTask:Connection="{1DACD363-E708-4327-A776-7FE95156F8FF}"
-                  SQLTask:SqlStatementSource="IF NOT EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'factSalesActual')&#xA;BEGIN&#xA;&#x9;CREATE TABLE dbo.factSalesActual&#xA;&#x9;(&#xA;&#x9;factSalesActualKey INT IDENTITY(1,1) CONSTRAINT PK_factSalesActual PRIMARY KEY CLUSTERED NOT NULL, --SurrogateKey&#xA;&#x9;dimProductKey INT NOT NULL, --Foreign Key&#xA;&#x9;dimStoreKey INT, --Foreign Key&#xA;&#x9;dimResellerKey INT, --Foreign Key&#xA;&#x9;dimCustomerKey INT, --Foreign Key&#xA;&#x9;dimChannelKey INT NOT NULL, --Foreign Key&#xA;&#x9;dimSaleDateKey INT NOT NULL, --Foreign Key&#xA;&#x9;dimLocationKey INT NOT NULL, --Foreign Key&#xA;&#x9;SalesHeaderID INT NOT NULL, --Natural Key&#xA;&#x9;SalesDetailID INT NOT NULL, --Natural Key&#xA;&#x9;SaleAmount FLOAT NOT NULL,&#xA;&#x9;SaleQuantity INT NOT NULL,&#xA;&#x9;SaleUnitPrice FLOAT NOT NULL,&#xA;&#x9;SaleExtendedCost FLOAT NOT NULL,&#xA;&#x9;SaleTotalProfit FLOAT NOT NULL&#xA; &#xA;&#x9;);&#xA;END&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+                  SQLTask:SqlStatementSource="IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'factSalesActual') &#xA;BEGIN&#xA;&#x9;-- ====================================&#xA;&#x9;-- This is split into three parts, one each for Stores, Resellers, and Customers.&#xA;&#x9;-- The code is the same for each part, save for which columns it checks for creating respective Keys.&#xA;&#x9;-- I know there's probably a better way to do this, but it works and I'm not getting graded for how efficient my code is.&#xA;&#x9;-- ====================================&#xA;&#xA;&#x9;-- 2) Three Conditional Loads (checking NULL values) to determine Store/Reseller/Customer Keys. Location Key used in all three.&#xA;&#xA;&#x9;-- Check for Stores&#xA;&#x9;INSERT INTO dbo.factSalesActual&#xA;&#x9;(&#xA;&#x9;dimStoreKey&#xA;&#x9;,dimResellerKey&#xA;&#x9;,dimCustomerKey&#xA;&#x9;,dimLocationKey&#xA;&#x9;,dimProductKey&#xA;&#x9;,dimChannelKey&#xA;&#x9;,dimSaleDateKey&#xA;&#x9;,SalesHeaderID&#xA;&#x9;,SalesDetailID&#xA;&#x9;,SaleAmount&#xA;&#x9;,SaleQuantity&#xA;&#x9;,SaleUnitPrice&#xA;&#x9;,SaleExtendedCost&#xA;&#x9;,SaleTotalProfit&#xA;&#x9;)&#xA;&#xA;&#x9;SELECT &#xA;&#x9;dimStore.dimStoreKey AS dimStoreKey&#xA;&#x9;,NULL AS dimResellerKey&#xA;&#x9;,NULL AS dimCustomerKey&#xA;&#x9;,dimStore.dimLocationKey AS dimLocationKey&#xA;&#x9;,dimProduct.dimProductKey AS dimProductKey&#xA;&#x9;,stageSalesHeader.ChannelID AS dimChannelKey&#xA;&#x9;,dimDate.dimDateID AS dimSaleDateKey&#xA;&#x9;,stageSalesHeader.SalesHeaderID AS SalesHeaderID&#xA;&#x9;,stageSalesDetail.SalesDetailID AS SalesDetailID&#xA;&#x9;,stageSalesDetail.SalesAmount AS SaleAmount&#xA;&#x9;,stageSalesDetail.SalesQuantity AS SaleQuantity&#xA;&#x9;,(stageSalesDetail.SalesAmount / stageSalesDetail.SalesQuantity) AS SaleUnitPrice&#xA;&#x9;,(stageSalesDetail.SalesQuantity * dimProduct.dimProductCost) AS SaleExtendedCost&#xA;&#x9;,(stageSalesDetail.SalesAmount - (stageSalesDetail.SalesQuantity * dimProduct.dimProductCost)) AS SaleTotalProfit&#xA;&#xA;&#x9;FROM stageSalesHeader&#xA;&#x9;LEFT JOIN stageSalesDetail&#xA;&#x9;ON stageSalesHeader.SalesHeaderID = stageSalesDetail.SalesHeaderID&#xA;&#x9;LEFT JOIN dimProduct&#xA;&#x9;ON stageSalesDetail.ProductID = dimProduct.dimProductID&#xA;&#x9;LEFT JOIN dimDate&#xA;&#x9;ON stageSalesHeader.Date = dimDate.FullDate&#xA;&#x9;LEFT JOIN dimStore &#xA;&#x9;ON stageSalesHeader.StoreID = dimStore.dimStoreID &#xA;&#x9;WHERE stageSalesHeader.StoreID IS NOT NULL&#xA;&#x9;;&#xA;&#xA;&#x9;-- Check for Resellers&#xA;&#x9;INSERT INTO dbo.factSalesActual&#xA;&#x9;(&#xA;&#x9;dimStoreKey&#xA;&#x9;,dimResellerKey&#xA;&#x9;,dimCustomerKey&#xA;&#x9;,dimLocationKey&#xA;&#x9;,dimProductKey&#xA;&#x9;,dimChannelKey&#xA;&#x9;,dimSaleDateKey&#xA;&#x9;,SalesHeaderID&#xA;&#x9;,SalesDetailID&#xA;&#x9;,SaleAmount&#xA;&#x9;,SaleQuantity&#xA;&#x9;,SaleUnitPrice&#xA;&#x9;,SaleExtendedCost&#xA;&#x9;,SaleTotalProfit&#xA;&#x9;)&#xA;&#xA;&#x9;SELECT &#xA;&#x9;NULL AS dimStoreKey&#xA;&#x9;,dimReseller.dimResellerKey AS dimResellerKey&#xA;&#x9;,NULL AS dimCustomerKey&#xA;&#x9;,dimReseller.dimLocationKey AS dimLocationKey&#xA;&#x9;,dimProduct.dimProductKey AS dimProductKey&#xA;&#x9;,stageSalesHeader.ChannelID AS dimChannelKey&#xA;&#x9;,dimDate.dimDateID AS dimSaleDateKey&#xA;&#x9;,stageSalesHeader.SalesHeaderID AS SalesHeaderID&#xA;&#x9;,stageSalesDetail.SalesDetailID AS SalesDetailID&#xA;&#x9;,stageSalesDetail.SalesAmount AS SaleAmount&#xA;&#x9;,stageSalesDetail.SalesQuantity AS SaleQuantity&#xA;&#x9;,(stageSalesDetail.SalesAmount / stageSalesDetail.SalesQuantity) AS SaleUnitPrice&#xA;&#x9;,(stageSalesDetail.SalesQuantity * dimProduct.dimProductCost) AS SaleExtendedCost&#xA;&#x9;,(stageSalesDetail.SalesAmount - (stageSalesDetail.SalesQuantity * dimProduct.dimProductCost)) AS SaleTotalProfit&#xA;&#xA;&#x9;FROM stageSalesHeader&#xA;&#x9;LEFT JOIN stageSalesDetail&#xA;&#x9;ON stageSalesHeader.SalesHeaderID = stageSalesDetail.SalesHeaderID&#xA;&#x9;LEFT JOIN dimProduct&#xA;&#x9;ON stageSalesDetail.ProductID = dimProduct.dimProductID&#xA;&#x9;LEFT JOIN dimDate&#xA;&#x9;ON stageSalesHeader.Date = dimDate.FullDate&#xA;&#x9;LEFT JOIN dimReseller &#xA;&#x9;ON stageSalesHeader.ResellerID = dimReseller.dimResellerID &#xA;&#x9;WHERE stageSalesHeader.ResellerID IS NOT NULL&#xA;&#x9;;&#xA;&#xA;&#x9;-- Check for Customers&#xA;&#x9;INSERT INTO dbo.factSalesActual&#xA;&#x9;(&#xA;&#x9;dimStoreKey&#xA;&#x9;,dimResellerKey&#xA;&#x9;,dimCustomerKey&#xA;&#x9;,dimLocationKey&#xA;&#x9;,dimProductKey&#xA;&#x9;,dimChannelKey&#xA;&#x9;,dimSaleDateKey&#xA;&#x9;,SalesHeaderID&#xA;&#x9;,SalesDetailID&#xA;&#x9;,SaleAmount&#xA;&#x9;,SaleQuantity&#xA;&#x9;,SaleUnitPrice&#xA;&#x9;,SaleExtendedCost&#xA;&#x9;,SaleTotalProfit&#xA;&#x9;)&#xA;&#xA;&#x9;SELECT &#xA;&#x9;NULL AS dimStoreKey&#xA;&#x9;,NULL AS dimResellerKey&#xA;&#x9;,dimCustomer.dimCustomerKey AS dimCustomerKey&#xA;&#x9;,dimCustomer.dimLocationKey AS dimLocationKey&#xA;&#x9;,dimProduct.dimProductKey AS dimProductKey&#xA;&#x9;,stageSalesHeader.ChannelID AS dimChannelKey&#xA;&#x9;,dimDate.dimDateID AS dimSaleDateKey&#xA;&#x9;,stageSalesHeader.SalesHeaderID AS SalesHeaderID&#xA;&#x9;,stageSalesDetail.SalesDetailID AS SalesDetailID&#xA;&#x9;,stageSalesDetail.SalesAmount AS SaleAmount&#xA;&#x9;,stageSalesDetail.SalesQuantity AS SaleQuantity&#xA;&#x9;,(stageSalesDetail.SalesAmount / stageSalesDetail.SalesQuantity) AS SaleUnitPrice&#xA;&#x9;,(stageSalesDetail.SalesQuantity * dimProduct.dimProductCost) AS SaleExtendedCost&#xA;&#x9;,(stageSalesDetail.SalesAmount - (stageSalesDetail.SalesQuantity * dimProduct.dimProductCost)) AS SaleTotalProfit&#xA;&#xA;&#x9;FROM stageSalesHeader&#xA;&#x9;LEFT JOIN stageSalesDetail&#xA;&#x9;ON stageSalesHeader.SalesHeaderID = stageSalesDetail.SalesHeaderID&#xA;&#x9;LEFT JOIN dimProduct&#xA;&#x9;ON stageSalesDetail.ProductID = dimProduct.dimProductID&#xA;&#x9;LEFT JOIN dimDate&#xA;&#x9;ON stageSalesHeader.Date = dimDate.FullDate&#xA;&#x9;LEFT JOIN dimCustomer&#xA;&#x9;ON stageSalesHeader.CustomerID = dimCustomer.dimCustomerID &#xA;&#x9;WHERE stageSalesHeader.CustomerID IS NOT NULL&#xA;&#x9;;&#xA;END&#xA;GO " xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
               </DTS:ObjectData>
             </DTS:Executable>
           </DTS:Executables>
@@ -7243,6 +7243,35 @@
       </DTS:PrecedenceConstraints>
     </DTS:Executable>
     <DTS:Executable
+      DTS:refId="Package\Create Views"
+      DTS:CreationName="STOCK:SEQUENCE"
+      DTS:Description="Sequence Container"
+      DTS:DTSID="{764B79F4-757B-4366-A42C-F26FCB4EDF8D}"
+      DTS:ExecutableType="STOCK:SEQUENCE"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Create Views">
+      <DTS:Variables />
+      <DTS:Executables>
+        <DTS:Executable
+          DTS:refId="Package\Create Views\DROP Views and Create New Ones"
+          DTS:CreationName="Microsoft.ExecuteSQLTask"
+          DTS:Description="Execute SQL Task"
+          DTS:DTSID="{FBEB31B0-9DC6-4D92-830E-019BA905949B}"
+          DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="DROP Views and Create New Ones"
+          DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+          DTS:ThreadHint="0">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <SQLTask:SqlTaskData
+              SQLTask:Connection="{1DACD363-E708-4327-A776-7FE95156F8FF}"
+              SQLTask:SqlStatementSource="-- dimChannel&#xA;&#xA;DROP VIEW IF EXISTS dbo.dimChannelView; &#xA;GO&#xA;&#xA;CREATE VIEW dimChannelView AS&#xA;SELECT dimChannelKey, dimSourceChannelID, dimSourceCategoryID, dimChannelCategoryName, dimChannelName&#xA;FROM dbo.dimChannel;&#xA;GO&#xA;&#xA;-- dimCustomer&#xA;&#xA;DROP VIEW IF EXISTS dbo.dimCustomerView; &#xA;GO&#xA;&#xA;CREATE VIEW dimCustomerView AS&#xA;SELECT dimCustomerKey, dimLocationKey, dimCustomerID, dimCustomerFullName, dimCustomerFirstName, dimCustomerLastName, dimCustomerGender&#xA;FROM dbo.dimCustomer;&#xA;GO&#xA;&#xA;-- dimDate&#xA;&#xA;DROP VIEW IF EXISTS dbo.dimDateView; &#xA;GO&#xA;&#xA;CREATE VIEW dimDateView AS&#xA;SELECT dimDateID, FullDate, DayNumberOfWeek, DayNameOfWeek, DayNumberOfMonth, DayNumberOfYear, WeekdayFlag, WeekNumberOfYear, MonthName, MonthNumberOfYear, CalendarQuarter, CalendarYear, CalendarSemester, CreatedDate, CreatedBy, ModifiedDate, ModifiedBy&#xA;FROM dbo.dimDate;&#xA;GO&#xA;&#xA;-- dimLocation&#xA;&#xA;DROP VIEW IF EXISTS dbo.dimLocationView; &#xA;GO&#xA;&#xA;CREATE VIEW dimLocationView AS&#xA;SELECT dimLocationKey, dimAddress, dimCity, dimPostalCode, dimState_Province, dimCountry&#xA;FROM dbo.dimLocation;&#xA;GO&#xA;&#xA;-- dimProduct&#xA;&#xA;DROP VIEW IF EXISTS dbo.dimProductView; &#xA;GO&#xA;&#xA;CREATE VIEW dimProductView AS&#xA;SELECT dimProductKey, dimProductID, dimProductTypeID, dimProductCategoryID, dimProductName, dimProductType, dimProductCategory, dimProductRetailPrice, dimProductWholesalePrice, dimProductCost, dimProductRetailProfit, dimProductWholesaleUnitProfit, dimProductProfitMarginUnitPercent&#xA;FROM dbo.dimProduct;&#xA;GO&#xA;&#xA;-- dimReseller&#xA;&#xA;DROP VIEW IF EXISTS dbo.dimResellerView; &#xA;GO&#xA;&#xA;CREATE VIEW dimResellerView AS&#xA;SELECT dimResellerKey, dimLocationKey, dimResellerID, dimResellerName, dimResellerContactName, dimResellerPhoneNumber, dimResellerEmail&#xA;FROM dbo.dimReseller;&#xA;GO&#xA;&#xA;-- dimStore&#xA;&#xA;DROP VIEW IF EXISTS dbo.dimStoreView; &#xA;GO&#xA;&#xA;CREATE VIEW dimStoreView AS&#xA;SELECT dimStoreKey, dimLocationKey, dimStoreID, dimStoreName, dimStoreNumber, dimStoreManager&#xA;FROM dbo.dimStore;&#xA;GO&#xA;&#xA;-- factSalesActual&#xA;&#xA;DROP VIEW IF EXISTS dbo.factSalesActualView; &#xA;GO&#xA;&#xA;CREATE VIEW factSalesActualView AS&#xA;SELECT factSalesActualKey, dimProductKey, dimStoreKey, dimResellerKey, dimCustomerKey, dimChannelKey, dimSaleDateKey, dimLocationKey, SalesHeaderID, SalesDetailID, SaleAmount, SaleQuantity, SaleUnitPrice, SaleExtendedCost, SaleTotalProfit&#xA;FROM dbo.factSalesActual;&#xA;GO&#xA;&#xA;-- factSalesTarget&#xA;&#xA;DROP VIEW IF EXISTS dbo.factSalesTargetView; &#xA;GO&#xA;&#xA;CREATE VIEW factSalesTargetView AS&#xA;SELECT factSalesTargetKey, dimStoreKey, dimResellerKey, dimChannelKey, dimTargetDateKey, SalesTargetAmount&#xA;FROM dbo.factSalesTarget;&#xA;GO&#xA;&#xA;-- factProductSalesTarget&#xA;&#xA;DROP VIEW IF EXISTS dbo.factProductSalesTargetView; &#xA;GO&#xA;&#xA;CREATE VIEW factProductSalesTargetView AS&#xA;SELECT factProductSalesTargetKey, dimProductKey, dimTargetDateKey, ProductSalesTargetQuantity&#xA;FROM dbo.factProductSalesTarget;&#xA;GO&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          </DTS:ObjectData>
+        </DTS:Executable>
+      </DTS:Executables>
+    </DTS:Executable>
+    <DTS:Executable
       DTS:refId="Package\Truncate Existing Staging Tables"
       DTS:CreationName="STOCK:SEQUENCE"
       DTS:Description="Sequence Container"
@@ -7484,6 +7513,14 @@
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 2"
       DTS:To="Package\Create Fact Tables" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 3]"
+      DTS:CreationName=""
+      DTS:DTSID="{F7392422-78A0-4C2D-962A-F5087972D330}"
+      DTS:From="Package\Create Fact Tables"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 3"
+      DTS:To="Package\Create Views" />
   </DTS:PrecedenceConstraints>
   <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
 <!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
@@ -8293,7 +8330,7 @@
           PanelSize="493.5,798"
           Size="493.5,43"
           Id="Package\Create Dimension Tables"
-          TopLeft="17.5,187.291669166129" />
+          TopLeft="16.5,186.750002502153" />
         <NodeLayout
           Size="224.5,42"
           Id="Package\Create Fact Tables\FactSalesActual Table\Create_FactSalesActual_Table"
@@ -8559,9 +8596,9 @@
           HeaderHeight="43"
           IsExpanded="False"
           PanelSize="454,479"
-          Size="191,43"
+          Size="454,43"
           Id="Package\Create Fact Tables"
-          TopLeft="490,191.208332383591" />
+          TopLeft="540,184.708332415877" />
         <NodeLayout
           Size="148.5,42"
           Id="Package\Create Staging Tables\Stage Channel"
@@ -8648,7 +8685,7 @@
           PanelSize="360,723.5"
           Size="360,43"
           Id="Package\Create Staging Tables"
-          TopLeft="278.5,28.5416666639761" />
+          TopLeft="277.5,27.9999999999999" />
         <NodeLayout
           Size="162.5,42"
           Id="Package\Truncate Existing Staging Tables\Truncate Channel"
@@ -8706,30 +8743,30 @@
           TopLeft="14.5,28" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
-          TopLeft="142.5,28">
+          TopLeft="142.5,71">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="316,0.541666663976116"
+              EndConnector="256.333333333333,-5.6843418860808E-14"
               Start="0,0"
-              End="316,-6.95833333602388">
+              End="256.333333333333,7.49999999999994">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,-18.5" />
+                    End="0,18.5" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,-18.5"
-                    Point2="0,-22.5"
-                    Point3="4,-22.5" />
+                    Point1="0,18.5"
+                    Point2="0,22.5"
+                    Point3="4,22.5" />
                   <mssgle:LineSegment
-                    End="312,-22.5" />
+                    End="252.333333333333,22.5" />
                   <mssgle:CubicBezierSegment
-                    Point1="312,-22.5"
-                    Point2="316,-22.5"
-                    Point3="316,-18.5" />
+                    Point1="252.333333333333,22.5"
+                    Point2="256.333333333333,22.5"
+                    Point3="256.333333333333,18.5" />
                   <mssgle:LineSegment
-                    End="316,-6.95833333602388" />
+                    End="256.333333333333,7.49999999999994" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -8740,7 +8777,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="458.5,71.5416666639761">
+          TopLeft="457.5,70.9999999999999">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -8774,30 +8811,63 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 2]"
-          TopLeft="345.166666666667,187.291669166129">
+          TopLeft="510,207.229167459015">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="240.333333333333,3.91666321746209"
+              EndConnector="30,0"
               Start="0,0"
-              End="240.333333333333,-3.58333678253791">
+              End="22.5,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,-18.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,-18.5"
-                    Point2="0,-22.5"
-                    Point3="4,-22.5" />
+                    End="22.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="246.5,42"
+          Id="Package\Create Views\DROP Views and Create New Ones"
+          TopLeft="12,18.5833320688042" />
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="False"
+          PanelSize="271,115.5"
+          Size="158.5,43"
+          Id="Package\Create Views"
+          TopLeft="563.5,280.041665275685" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 3]"
+          TopLeft="767,227.708332415877">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-124.25,52.3333328598077"
+              Start="0,0"
+              End="-124.25,44.8333328598077">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
                   <mssgle:LineSegment
-                    End="236.333333333333,-22.5" />
+                    End="0,22.1666664299039" />
                   <mssgle:CubicBezierSegment
-                    Point1="236.333333333333,-22.5"
-                    Point2="240.333333333333,-22.5"
-                    Point3="240.333333333333,-18.5" />
+                    Point1="0,22.1666664299039"
+                    Point2="0,26.1666664299039"
+                    Point3="-4,26.1666664299039" />
                   <mssgle:LineSegment
-                    End="240.333333333333,-3.58333678253791" />
+                    End="-120.25,26.1666664299039" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-120.25,26.1666664299039"
+                    Point2="-124.25,26.1666664299039"
+                    Point3="-124.25,30.1666664299039" />
+                  <mssgle:LineSegment
+                    End="-124.25,44.8333328598077" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -9593,7 +9663,7 @@
     design-time-name="Package\Create Staging Tables\Stage TargetsDist">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="169,42"
           Id="Package\Create Staging Tables\Stage TargetsDist\Source TargetsDist"
@@ -9633,7 +9703,9 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="80.6298828125,58.5,36.240234375,9.5732421875"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -9656,7 +9728,7 @@
     design-time-name="Package\Create Staging Tables\Stage TargetsProduct">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="187,42"
           Id="Package\Create Staging Tables\Stage TargetsProduct\Source TargetsProduct"
@@ -9696,7 +9768,9 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="58.46142578125,41.5,36.5771484375,9.6025390625"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
